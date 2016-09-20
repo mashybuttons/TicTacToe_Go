@@ -1,8 +1,5 @@
 package main
 import "fmt"
-//const board
-//make board function
-  //toggle piece function
 
 func board () [][]string {
   temp := make([][]string, 3)
